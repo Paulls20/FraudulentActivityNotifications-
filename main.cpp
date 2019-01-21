@@ -60,7 +60,6 @@ ExpArray frequency_list(
 /**
  * This function returns the notification count over a period of n days, where n = expList.size().
  * @param expList list of expenditures.
- * @param numDays number of transaction days.
  * @param numPriorDays number of prior days the bank uses to calculate median.
  * @return the notification count.
  */
